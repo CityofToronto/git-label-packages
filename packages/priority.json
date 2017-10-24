@@ -1,6 +1,6 @@
 [
-  { "name": "Priority: Low", "color": "#009800" },
-  { "name": "Priority: Medium", "color": "#fbca04" },
-  { "name": "Priority: High", "color": "#eb6420" },
-  { "name": "Priority: Critical", "color": "#e11d21" }
+  { "name": "Priority: Low - Cosmetic change", "color": "#009800" },
+  { "name": "Priority: Medium - Would not block release", "color": "#fbca04" },
+  { "name": "Priority: High - Must be addressed before release", "color": "#eb6420" },
+  { "name": "Priority: Critical - Blocking functionality", "color": "#e11d21" }
 ]
